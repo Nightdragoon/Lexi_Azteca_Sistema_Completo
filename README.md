@@ -3,6 +3,8 @@
 > **Educación financiera gamificada para universitarios mexicanos.**
 > Aprende, simula, completa misiones y sube de rango — todo en un solo lugar.
 
+🌐 **[Pruébala aquí → lexi-azteca.com](https://lexi-azteca.com/login)**
+
 ---
 
 ## ✨ ¿Qué es Lexi Azteca?
